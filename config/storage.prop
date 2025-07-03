@@ -1,0 +1,6 @@
+assetStorage.type = git
+assetStorage.mutable = true
+assetStorage.localPath = /storage/my-ontologies
+assetStorage.branch = main
+assetStorage.remoteUrl = https://github.com/IngaGlo112/help.git
+assetStorage.waitForPushResult = true
